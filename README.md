@@ -1,6 +1,6 @@
 # smile-detection
 
-simple project based on smile detection.
+##Simple smile detection project using OpenCV.
 
 This smile detector project is using OpenCV which takes in live feed from webcam or Raspberry Pi Camera.
 To detect the smile, one has to use OpenCV to detect the face on a person. 
